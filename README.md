@@ -11,5 +11,5 @@ You can learn about Archimedes Spirals [here](http://en.wikipedia.org/wiki/Archi
 Demo
 -----------------
 
-You can view it [here](http://yvescourtois.com/archimedesSpiral/).
+You can view it [here](http://novacourtois.github.io/archimedesSpiral/index.html).
 Refresh it to see a new spiral. 
